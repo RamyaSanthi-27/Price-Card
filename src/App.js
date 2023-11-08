@@ -6,7 +6,7 @@ function App() {
   const planDetails= [
     {
       plan:"Free",
-      price:"$0/month",
+      price:"$0",
       
       features : [
         {
@@ -46,7 +46,7 @@ function App() {
   
     {
       plan:"Plus",
-      price:"$9/month",
+      price:"$9",
       
       features : [
         {
@@ -86,7 +86,7 @@ function App() {
   
     {
       plan:"PRO",
-      price:"$49/month",
+      price:"$49",
       
       features : [
         {
